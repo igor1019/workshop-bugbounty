@@ -50,7 +50,7 @@ cd ~
 go install github.com/tomnomnom/assetfinder@latest
 go install -v github.com/tomnomnom/anew@latest
 go install -v github.com/projectdiscovery/dnsx/cmd/dnsx@latest
-go install github.com/bp0lr/gauplus@latest
+go install github.com/lc/gau/v2/cmd/gau@latest
 go install github.com/deletescape/goop@latest
 go install github.com/hakluke/hakcheckurl@latest
 go install github.com/tomnomnom/meg@latest
